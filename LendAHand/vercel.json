@@ -10,7 +10,7 @@
         "use": "@vercel/static"
       }
     ],
-    "rewrites": [
+    "routes": [
       { "source": "/", "destination": "/index.html" },
       { "source": "/palestine", "destination": "/palestine.html" }
     ]
