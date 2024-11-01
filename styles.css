@@ -220,6 +220,7 @@ button {
     width: 140px;
     border: none;
     background-color: rgb(5, 243, 24);
+    box-shadow: 0 4px 10px rgba(126, 131, 126, 0.753);
     font-size: large;
     cursor: pointer;
     transition: 150ms ease;
