@@ -11,8 +11,8 @@
       }
     ],
     "routes": [
-      { "source": "/", "destination": "/index.html" },
-      { "source": "/palestine", "destination": "/palestine.html" }
+      { "src": "/", "destination": "/index.html" },
+      { "src": "/palestine", "destination": "/palestine.html" }
     ]
   }
   
